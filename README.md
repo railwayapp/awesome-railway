@@ -51,3 +51,4 @@ A list of starters built by the community using the [Railway button](https://rai
 A list of projects hosted on Railway.
 
 - [Long-term visas](https://longtermvisas.com/): A platform built to help people relocate or immigrate to a new country by empowering them with all the information and support they would need.
+- [Gradient Avatars](https://avatars.jakerunzer.com/): Generate gradient profile images based on some text
