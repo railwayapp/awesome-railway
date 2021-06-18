@@ -14,6 +14,7 @@ A curated list of awesome resources related to [Railway](https://railway.app/).
   - [Button](#button)
   - [Feedback](#feedback)
 - [Community](#community)
+  - [Videos](#videos)
   - [Starters](#community-starters)
   - [Built on Railway](#built-on-railway)
 
@@ -40,6 +41,11 @@ The [Railway button](https://railway.app/button) allows users to create links to
 Railway has an open [feedback board](https://feedback.railway.app/) to track feature requests and bug reports.
 
 ## Community
+  
+### Videos
+A list of videos showcasing the use of Railway.
+
+- [Coding on an iPad](https://www.youtube.com/watch?v=IWfkkaY5fXs): In this video, Joe Previte, an engineer at Coder, demonstrates how to deploy code-server (VSCode in the browser) to be able to access his environment from anywhere and write code on an iPad.
 
 ### Community starters
 A list of starters built by the community using the [Railway button](https://railway.app/button).
