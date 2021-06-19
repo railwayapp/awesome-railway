@@ -1,0 +1,22 @@
+{
+  "name": "musicbot",
+  "version": "2.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "bufferutil": "^4.0.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.3.0",
+    "libsodium-wrappers": "^0.7.9",
+    "utf-8-validate": "^5.0.5",
+    "youtube-sr": "^4.1.4",
+    "ytdl-core": "^4.8.2",
+    "zlib-sync": "^0.1.7"
+  },
+  "type": "module"
+}
