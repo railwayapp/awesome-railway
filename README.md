@@ -18,6 +18,7 @@ A curated list of awesome resources related to [Railway](https://railway.app/).
 - [Community](#community)
   - [Built on Railway](#built-on-railway)
   - [Starters](#community-starters)
+  - [Utilities](#utilities)
   - [Videos](#videos)
 
 ## Official
@@ -63,7 +64,12 @@ A list of starters built by the community using the [Railway button](https://rai
 - [Healthchecker](https://github.com/morgangallant/healthchecker): Healthchecker is a simple application to periodically send HTTP requests to an endpoint. If the endpoint returns an error, the application is marked as unhealthy and a notification is sent to Discord.
 - [Logs](https://github.com/morgangallant/logs): Logs is a service for maintaining personal logs by DM-ing a bot on Telegram. ([Demo](https://logs.morgangallant.com/))
 - [Scheduler](https://github.com/operandinc/scheduler): Scheduler is a simple job scheduler and CRON system, meant to be run as a singleton on Railway. Applications can schedule future jobs to be executed, and receive webhooks for firing CRON jobs.
+
+### Utilities
+A list of community-maintained utilities for everything Railway.
   
+- [Setup Railway CLI Action](https://github.com/MadeByThePinsHub/setup-railway-cli-action) - A GitHub action to set up Railway CLI through either npm global install and install script for Linux and macOS. Additional features like version locking and building from source will be available in the future.
+
 ### Videos
 A list of videos showcasing the use of Railway.
 
