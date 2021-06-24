@@ -56,6 +56,7 @@ A list of projects hosted on Railway.
 
 - [Long-term visas](https://longtermvisas.com/): A platform built to help people relocate or immigrate to a new country by empowering them with all the information and support they would need.
 - [Gradient Avatars](https://avatars.jakerunzer.com/): Generate gradient profile images based on some text
+- [Discord Welcome-Bot](https://welcome-bot.github.io/): A multi-purpose discord bot that helps you monitor (welcome and goodbye logs), moderate (kick or ban users who spam your server), etc...
 
 ### Community starters
 A list of starters built by the community using the [Railway button](https://railway.app/button).
