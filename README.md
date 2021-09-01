@@ -60,7 +60,8 @@ A list of projects hosted on Railway.
 
 ### Community starters
 A list of starters built by the community using the [Railway button](https://railway.app/button).
-  
+
+- [Discord.js Slash Commands](https://github.com/kb24x7/discordjs-v13-starter/): This starter is based on the new V13 released in Discord.js, perfect for people not wanting to read long documentations just to get a single command working.
 - [Healthchecker](https://github.com/morgangallant/healthchecker): Healthchecker is a simple application to periodically send HTTP requests to an endpoint. If the endpoint returns an error, the application is marked as unhealthy and a notification is sent to Discord.
 - [Logs](https://github.com/morgangallant/logs): Logs is a service for maintaining personal logs by DM-ing a bot on Telegram. ([Demo](https://logs.morgangallant.com/))
 - [Scheduler](https://github.com/operandinc/scheduler): Scheduler is a simple job scheduler and CRON system, meant to be run as a singleton on Railway. Applications can schedule future jobs to be executed, and receive webhooks for firing CRON jobs.
