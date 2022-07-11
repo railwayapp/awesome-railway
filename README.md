@@ -17,6 +17,7 @@ A curated list of awesome resources related to [Railway](https://railway.app/).
   - [Utilities](#utilities)
 - [Community](#community)
   - [Built on Railway](#built-on-railway)
+  - [Built with Railway](#built-with-railway)
   - [Starters](#community-starters)
   - [Utilities](#utilities)
   - [Videos](#videos)
@@ -57,6 +58,10 @@ A list of projects hosted on Railway.
 - [Long-term visas](https://longtermvisas.com/): A platform built to help people relocate or immigrate to a new country by empowering them with all the information and support they would need.
 - [Gradient Avatars](https://avatars.jakerunzer.com/): Generate gradient profile images based on some text
 - [Discord Welcome-Bot](https://welcome-bot.github.io/): A multi-purpose discord bot that helps you monitor (welcome and goodbye logs), moderate (kick or ban users who spam your server), etc. ([Source code](https://github.com/Welcome-Bot/welcome-bot))
+  
+### Built with Railway
+A list of projects hosted with Railway.
+- [Botway](https://github.com/abdfnx/botway): 🤖 Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.
 
 ### Community starters
 A list of starters built by the community using the [Railway button](https://railway.app/button).
