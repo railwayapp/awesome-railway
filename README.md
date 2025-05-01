@@ -27,7 +27,7 @@ A curated list of awesome resources related to [Railway](https://railway.app/).
 A [blog](https://blog.railway.app/) where the team at Railway publish new posts every week. The topics covered range from starters to how they work to engineering problems solved while building Railway.
 
 ### Button
-The [Railway button](https://railway.app/button) allows users to create links to Github repositories that can be cloned and deployed on Railway. Users can also configure the required plugins and environment variables.
+The [Railway button](https://docs.railway.com/guides/publish-and-share#deploy-on-railway-button) allows users to create links to Github repositories that can be cloned and deployed on Railway. Users can also configure the required plugins and environment variables.
 
 ### Careers
 A list of available jobs can be viewed on the [jobs page](https://www.notion.so/railwayapp/Jobs-bdc641c4b72947f2ab1e09bea5362363) hosted on Notion.
