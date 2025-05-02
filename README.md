@@ -27,7 +27,7 @@ A curated list of awesome resources related to [Railway](https://railway.app/).
 A [blog](https://blog.railway.app/) where the team at Railway publish new posts every week. The topics covered range from starters to how they work to engineering problems solved while building Railway.
 
 ### Button
-The [Railway button](https://railway.app/button) allows users to create links to Github repositories that can be cloned and deployed on Railway. Users can also configure the required plugins and environment variables.
+The [Railway button](https://docs.railway.com/guides/publish-and-share#deploy-on-railway-button) allows users to create links to Github repositories that can be cloned and deployed on Railway. Users can also configure the required plugins and environment variables.
 
 ### Careers
 A list of available jobs can be viewed on the [jobs page](https://www.notion.so/railwayapp/Jobs-bdc641c4b72947f2ab1e09bea5362363) hosted on Notion.
@@ -37,10 +37,10 @@ The Railway team uses [Discord](https://discord.com/invite/xAm2w6g) to interact 
 
 ### Docs
 - [General docs](https://docs.railway.app/)
-- [CLI API reference](https://docs.railway.app/cli/api-reference)
+- [CLI API reference](https://docs.railway.com/guides/cli)
 
 ### Feedback
-Railway has an open [feedback board](https://feedback.railway.app/) to track feature requests and bug reports.
+Railway has an open [feedback board](https://station.railway.com) to track feature requests and bug reports.
 
 ### Starters
 Railway maintains a collection of starters that can be deployed in one-click. Users can deploy them instantly in one-click by choosing one on the [starters page](https://railway.app/starters).
@@ -54,12 +54,12 @@ Railway maintains a collection of starters that can be deployed in one-click. Us
 ### Built on Railway
 A list of projects hosted on Railway.
 
-- [Long-term visas](https://longtermvisas.com/): A platform built to help people relocate or immigrate to a new country by empowering them with all the information and support they would need.
 - [Gradient Avatars](https://avatars.jakerunzer.com/): Generate gradient profile images based on some text
-- [Discord Welcome-Bot](https://welcome-bot.github.io/): A multi-purpose discord bot that helps you monitor (welcome and goodbye logs), moderate (kick or ban users who spam your server), etc. ([Source code](https://github.com/Welcome-Bot/welcome-bot))
+
+*Open a pull request to get your project added here!*
 
 ### Community starters
-A list of starters built by the community using the [Railway button](https://railway.app/button).
+A list of starters built by the community using the [Railway button](https://docs.railway.com/guides/publish-and-share#deploy-on-railway-button).
 
 - [Discord.js Slash Commands](https://github.com/kb24x7/discordjs-v13-starter/): A fully customizable starter for Discord.js V13.
 - [Healthchecker](https://github.com/morgangallant/healthchecker): Healthchecker is a simple application to periodically send HTTP requests to an endpoint. If the endpoint returns an error, the application is marked as unhealthy and a notification is sent to Discord.
