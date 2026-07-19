@@ -61,6 +61,7 @@ A list of projects hosted on Railway.
 ### Community starters
 A list of starters built by the community using the [Railway button](https://docs.railway.com/guides/publish-and-share#deploy-on-railway-button).
 
+- [DaoXE Discord Bot](https://github.com/seven7763/daoxe-railway-discord-bot): A minimal Discord bot with an /ask slash command, backed by any OpenAI-compatible endpoint. Includes a railway.json for one-click deploy from the repo.
 - [Discord.js Slash Commands](https://github.com/kb24x7/discordjs-v13-starter/): A fully customizable starter for Discord.js V13.
 - [Healthchecker](https://github.com/morgangallant/healthchecker): Healthchecker is a simple application to periodically send HTTP requests to an endpoint. If the endpoint returns an error, the application is marked as unhealthy and a notification is sent to Discord.
 - [Logs](https://github.com/morgangallant/logs): Logs is a service for maintaining personal logs by DM-ing a bot on Telegram. ([Demo](https://logs.morgangallant.com/))
