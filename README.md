@@ -30,7 +30,7 @@ A [blog](https://blog.railway.app/) where the team at Railway publish new posts 
 The [Railway button](https://docs.railway.com/guides/publish-and-share#deploy-on-railway-button) allows users to create links to Github repositories that can be cloned and deployed on Railway. Users can also configure the required plugins and environment variables.
 
 ### Careers
-A list of available jobs can be viewed on the [jobs page](https://www.notion.so/railwayapp/Jobs-bdc641c4b72947f2ab1e09bea5362363) hosted on Notion.
+A list of available jobs can be viewed on the [jobs page](https://railway.com/careers) on the website and on [Ashby](https://jobs.ashbyhq.com/Railway).
   
 ### Discord
 The Railway team uses [Discord](https://discord.com/invite/xAm2w6g) to interact with users. It is also the best way to reach out to the team for help with any issues.
