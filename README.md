@@ -18,6 +18,7 @@ A curated list of awesome resources related to [Railway](https://railway.app/).
 - [Community](#community)
   - [Built on Railway](#built-on-railway)
   - [Starters](#community-starters)
+  - [Templates](#community-templates)
   - [Utilities](#utilities)
   - [Videos](#videos)
 
@@ -65,6 +66,14 @@ A list of starters built by the community using the [Railway button](https://doc
 - [Healthchecker](https://github.com/morgangallant/healthchecker): Healthchecker is a simple application to periodically send HTTP requests to an endpoint. If the endpoint returns an error, the application is marked as unhealthy and a notification is sent to Discord.
 - [Logs](https://github.com/morgangallant/logs): Logs is a service for maintaining personal logs by DM-ing a bot on Telegram. ([Demo](https://logs.morgangallant.com/))
 - [Scheduler](https://github.com/operandinc/scheduler): Scheduler is a simple job scheduler and CRON system, meant to be run as a singleton on Railway. Applications can schedule future jobs to be executed, and receive webhooks for firing CRON jobs.
+
+### Community templates
+A list of templates built by the community and published on the [template marketplace](https://railway.com/templates).
+
+- [AI Gateway + Observability](https://railway.com/deploy/ai-gateway-observability-litellm-langfus): LiteLLM gateway with Langfuse tracing pre-wired — one endpoint for 100+ LLM providers, every request traced. ([Source](https://github.com/Kjudeh/ai-gateway-stack))
+- [Claude Agent SDK Worker](https://railway.com/deploy/claude-agent-sdk-worker): Scheduled autonomous Claude agents defined in YAML (cron + prompt), with per-run cost history in Postgres. ([Source](https://github.com/Kjudeh/claude-agent-worker))
+- [n8n Production Stack](https://railway.com/deploy/n8n-production-stack-queue-mode): n8n in queue mode with workers, Redis, Postgres, and S3 database backups wired in. ([Source](https://github.com/Kjudeh/n8n-production-stack))
+- [WhatsApp AI Receptionist](https://railway.com/deploy/whatsapp-ai-receptionist): A working AI receptionist for a WhatsApp number — Evolution API + n8n + Postgres + Redis, preloaded auto-reply agent workflow. ([Source](https://github.com/Kjudeh/whatsapp-ai-receptionist))
 
 ### Utilities
 A list of community-maintained utilities for everything Railway.
