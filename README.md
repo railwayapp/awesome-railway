@@ -68,6 +68,8 @@ A list of starters built by the community using the [Railway button](https://doc
 
 ### Utilities
 A list of community-maintained utilities for everything Railway.
+
+- [Railway for macOS](https://github.com/yuri-rod/railway-macos) - Native macOS client built from scratch in Swift, SwiftUI and AppKit, with service architecture, deployments, metrics, agent workflows and an embedded SSH terminal. Source-only developer preview seeking community feedback.
   
 - [Setup Railway CLI Action](https://github.com/MadeByThePinsHub/setup-railway-cli-action) - A GitHub action to set up Railway CLI through either npm global install and install script for Linux and macOS. Additional features like version locking and building from source will be available in the future.
 
