@@ -70,6 +70,7 @@ A list of starters built by the community using the [Railway button](https://doc
 A list of community-maintained utilities for everything Railway.
   
 - [Setup Railway CLI Action](https://github.com/MadeByThePinsHub/setup-railway-cli-action) - A GitHub action to set up Railway CLI through either npm global install and install script for Linux and macOS. Additional features like version locking and building from source will be available in the future.
+- [Railway Monitor](https://marketplace.elgato.com/product/railway-monitor-5ce3e76f-4780-4674-97c8-63873f39b073) - A Stream Deck plugin (Mac & Windows) that shows your latest Railway deployment status on a key, redeploys a service with one press, and checks whether a service is active, sleeping or down.
 
 ### Videos
 A list of videos showcasing the use of Railway.
